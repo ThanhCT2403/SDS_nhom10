@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="guava-31.1-jre">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jar_files/guava/guava-31.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar_files/JDBC/mysql-connector-java-8.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
